@@ -1,0 +1,71 @@
+@font-face{
+  font-family: Audiowide;
+
+  src: url(../font/Audiowide.eot) format("eot"),
+  url(../font/Audiowide.svg) format("svg"),
+  url(../font/Audiowide.ttf) format("truetype"),
+  url(../font/Audiowide.woff) format("woff");
+}
+
+@font-face{
+  font-family: Montserrat-Regular;
+
+  src: url(../font/Montserrat-Regular.eot) format("eot"),
+  url(../font/Montserrat-Regular.svg) format("svg"),
+  url(../font/Montserrat-Regular.ttf) format("truetype"),
+  url(../font/Montserrat-Regular.woff) format("woff");
+}
+
+@font-face{
+  font-family: OpenSans-Regular;
+
+  src: url(../font/OpenSans-Regular.eot) format("eot"),
+  url(../font/OpenSans-Regular.svg#OpenSans-Regular) format("svg"),
+  url(../font/OpenSans-Regular.ttf) format("truetype"),
+  url(../font/OpenSans-Regular.woff) format("woff");
+}
+
+@font-face{
+  font-family: Oswald-Regular;
+
+  src: url(../font/Oswald-Regular.eot) format("eot"),
+  url(../font/Oswald-Regular.svg#Oswald-Regular) format("svg"),
+  url(../font/Oswald-Regular.ttf) format("truetype"),
+  url(../font/Oswald-Regular.woff) format("woff");
+}
+
+@font-face{
+  font-family: Poppins-Regular;
+
+  src: url(../font/Poppins-Regular.eot) format("eot"),
+  url(../font/Poppins-Regular.svg#Poppins-Regular) format("svg"),
+  url(../font/Poppins-Regular.ttf) format("truetype"),
+  url(../font/Poppins-Regular.woff) format("woff");
+}
+
+@font-face{
+  font-family: RedRose-Regular;
+
+  src: url(../font/RedRose-Regular.eot) format("eot"),
+  url(../font/RedRose-Regular.svg#RedRose-Regular) format("svg"),
+  url(../font/RedRose-Regular.ttf) format("truetype"),
+  url(../font/RedRose-Regular.woff) format("woff");
+}
+
+@font-face{
+  font-family: Roboto-Regular;
+
+  src: url(../font/Roboto-Regular.eot) format("eot"),
+  url(../font/Roboto-Regular.svg#Roboto-Regular) format("svg"),
+  url(../font/Roboto-Regular.ttf) format("truetype"),
+  url(../font/Roboto-Regular.woff) format("woff");
+}
+
+@font-face{
+  font-family: Ubuntu-Regular;
+
+  src: url(../font/Ubuntu-Regular.eot) format("eot"),
+  url(../font/Ubuntu-Regular.svg#Ubuntu-Regular) format("svg"),
+  url(../font/Ubuntu-Regular.ttf) format("truetype"),
+  url(../font/Ubuntu-Regular.woff) format("woff");
+}
